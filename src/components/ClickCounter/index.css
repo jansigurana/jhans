@@ -1,0 +1,8 @@
+/* Write your CSS here */
+import ClickCount from "./components/ClickCount";
+
+const App = () => {
+  return <ClickCount/>
+}
+
+export default App;
